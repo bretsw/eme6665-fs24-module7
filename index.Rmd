@@ -1,0 +1,239 @@
+---
+title: "Module 7: Weaving Together Ch. 1"
+subtitle: "EME6665: Synthesis, Analysis, & Argumentation"
+author: "Dr. Bret Staudt Willet"
+date: "November 18, 2024"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    seal: true
+    css: [default, 'custom.css', 'custom-fonts.css']
+    nature:
+      titleSlideClass: [left, bottom]
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+usethis::use_git_ignore(c("*.csv", "*.rds"))
+options(htmltools.dir.version = FALSE)
+
+library(knitr)
+library(tidyverse)
+library(xaringan)
+library(fontawesome)
+```
+
+class: inverse, center, middle
+
+# `r fa("fas fa-images", fill = "#fff")`
+
+**View the slides:** 
+
+[bretsw.com/eme6665-fs24-module7](https://bretsw.com/eme6665-fs24-module7)
+
+---
+
+class: inverse, center, middle
+
+# `r fa("fas fa-share-nodes", fill = "#fff")` <br><br> Module 7 <br> Weaving Together Chapter One
+
+---
+
+# `r fa("fas fa-share-nodes", fill = "#fff")` Structure
+
+```{r, out.width = "720px%", echo = FALSE, fig.align = "center"}
+include_graphics("img/frame.jpg")
+```
+
+Your Problem (introduction) and Framework sections **provide focus and structure** to your Lit Review
+
+---
+
+# `r fa("fas fa-share-nodes", fill = "#fff")` Bridge
+
+```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
+include_graphics("img/bridge.jpg")
+```
+
+Your Lit Review is a **bridge between** the problem (Introduction) and your research questions
+
+---
+
+class: inverse, center, middle
+
+# `r fa("fas fa-binoculars", fill = "#fff")` <br><br> Looking ahead
+
+---
+
+# `r fa("fas fa-calendar-day", fill = "#fff")` Semester schedule
+
+- Module 1: Threads of Chapter One
+
+- Module 2: Do You Trust Me?
+
+- Module 3: A Handbook's Tale
+
+- Module 4: Systematic Not Automatic
+
+- Module 5: Synthesis Over Summary
+
+- Module 6: Elements of Style (for Academic Writing)
+
+- **Module 7: Weaving Together Chapter One**
+
+---
+
+# `r fa("fas fa-keyboard", fill = "#fff")` Final Assignment
+
+```{r, out.width = "240px", echo = FALSE, fig.align = "center"}
+include_graphics("img/7-weave.jpg")
+```
+
+--
+
+**Objective:** Compile previously identified and evaluated research to compose a **complete** and **coherent** dissertation literature review.
+
+--
+
+Chapter One pulls together an Introduction, the Literature Review, a Framework, and Research Questions.
+
+--
+
+<hr>
+
+--
+
+- **Introduction**
+
+--
+
+  - Research topic
+
+--
+
+  - Problem
+
+--
+
+  - Purpose
+
+---
+
+# `r fa("fas fa-keyboard", fill = "#fff")` Final Assignment
+
+```{r, out.width = "240px", echo = FALSE, fig.align = "center"}
+include_graphics("img/7-weave.jpg")
+```
+
+**Objective:** Compile previously identified and evaluated research to compose a **complete** and **coherent** dissertation literature review.
+
+Chapter One pulls together an Introduction, the Literature Review, a Framework, and Research Questions.
+
+<hr>
+
+- **Literature Review**
+
+--
+
+- **Framework**
+
+--
+
+- **Research Questions**
+
+---
+
+# `r fa("fas fa-keyboard", fill = "#fff")` Final Assignment
+
+```{r, out.width = "240px", echo = FALSE, fig.align = "center"}
+include_graphics("img/7-weave.jpg")
+```
+
+- **Key elements**
+
+--
+
+  - **Synthesis** of past research
+
+--
+
+  - **Significance** of past research
+
+--
+
+  - An argument
+
+--
+
+  - Alignment and focus
+
+--
+
+  - Narrative flow (topic sentences and transitions)
+
+---
+
+# `r fa("fas fa-keyboard", fill = "#fff")` Final Assignment
+
+```{r, out.width = "240px", echo = FALSE, fig.align = "center"}
+include_graphics("img/7-weave.jpg")
+```
+
+**Objective:** Compile previously identified and evaluated research to compose a **complete** and **coherent** dissertation literature review.
+
+<hr>
+
+- **Introduction**
+
+- **Literature Review**
+
+- **Framework**
+
+- **Purpose & Research Questions**
+
+---
+
+# `r fa("fas fa-sitemap", fill = "#fff")` Order: Soccer Formations
+
+```{r, out.width = "540px", echo = FALSE, fig.align = "center"}
+include_graphics("img/soccer.jpg")
+```
+
+--
+
+- Introduction `r fa("fas fa-arrow-right", fill = "#782F40")` 
+**Literature Review** `r fa("fas fa-arrow-right", fill = "#782F40")` 
+Framework `r fa("fas fa-arrow-right", fill = "#782F40")` 
+Purpose & Research Questions
+
+--
+
+- Introduction `r fa("fas fa-arrow-right", fill = "#782F40")`
+Framework `r fa("fas fa-arrow-right", fill = "#782F40")` 
+**Literature Review** `r fa("fas fa-arrow-right", fill = "#782F40")` 
+Purpose & Research Questions
+
+--
+
+- Introduction `r fa("fas fa-arrow-right", fill = "#782F40")`
+Framework `r fa("fas fa-arrow-right", fill = "#782F40")` 
+Purpose & Research Questions 
+`r fa("fas fa-arrow-right", fill = "#782F40")` **Literature Review**
+
+---
+
+class: inverse, center, middle
+
+# `r fa("fas fa-question", fill = "#fff")` <br><br> Questions
+
+<hr>
+
+**What questions can I answer for you now?**
+
+**How can I support you this week?**
+
+<hr>
+
+`r fa("envelope", fill = "#fff")` [bret.staudtwillet@fsu.edu](mailto:bret.staudtwillet@fsu.edu) | `r fa("globe", fill = "#fff")` [bretsw.com](https://bretsw.com) | `r fa("fab fa-github", fill = "#fff")` [GitHub](https://github.com/bretsw/)
